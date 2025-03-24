@@ -4,8 +4,7 @@
 💡 Passionate **Frontend Developer** & **Aspiring Java Full-Stack Developer**  
 💻 Currently mastering **React.js, Advanced Java & Spring Boot**  
 📚 Focused on **Data Structures & Algorithms (DSA)** (199+ problems solved on LeetCode)  
-🎯 Goal: Cracking **FAANG & landing a 40+ LPA job at Google**  
-📍 Based in **Jabalpur, India**  
+📍 Based in **Jabalpur (M.P), India**  
 
 ---
 
