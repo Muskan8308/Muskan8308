@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ## LeetCode Stats  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Muskan83038?theme=chartreuse&font=PT%20Sans)
+<img src="https://leetcard.jacoblin.cool/Muskan83038?theme=chartreuse&font=PT%20Sans" alt="LeetCode Stats" />
 
 -->
