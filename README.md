@@ -12,7 +12,6 @@
 🚀 **Frontend:** HTML, CSS, JavaScript, React.js  
 ⚡ **Backend:** Java (Core & Advanced), Spring Boot (Upcoming)  
 🛢️ **Databases:** MySQL 
-
 ⚙️ **Tools & Platforms:** Git, GitHub, VS Code, Eclipse  
 📌 **Other Skills:** Problem-Solving  
 
