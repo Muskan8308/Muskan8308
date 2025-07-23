@@ -3,7 +3,7 @@
 ### 🚀 About Me  
 💡 Passionate **Frontend Developer** & **Aspiring Java Full-Stack Developer**  
 💻 Currently mastering **React.js, Advanced Java & Spring Boot**  
-📚 Focused on **Data Structures & Algorithms (DSA)** (270+ problems solved on LeetCode)  
+📚 Focused on **Data Structures & Algorithms (DSA)** (300+ problems solved on LeetCode)  
 📍 Based in **Jabalpur (M.P), India**  
 
 ---
@@ -12,7 +12,7 @@
 🚀 **Frontend:** HTML, CSS, JavaScript, React.js  
 ⚡ **Backend:** Java (Core & Advanced), Spring Boot (Upcoming)  
 🛢️ **Databases:** MySQL     
-⚙️ **Tools & Platforms:** Git, GitHub, VS Code, Eclipse  
+⚙️ **Tools & Platforms:** Git, GitHub, VS Code, Eclipse, IntelliJ  
 📌 **Other Skills:** Problem-Solving  
 
 ---
