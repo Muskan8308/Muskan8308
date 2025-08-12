@@ -34,7 +34,7 @@
 🔗 **LeetCode:** [Muskan83038](https://leetcode.com/u/Muskan83038/)  
 📧 **Email:** muskan93093@gmail.com  
 
-![Count](https://komarev.com/ghpvc/?username=Muskan8308&label=Profile%20views&color=0e75b6&style=flat)
+![Count](https://komarev.com/ghpvc/?username=Muskan8308&label=Daily%20Beans&color=0e75b6&style=flat)
 
 ---
 
