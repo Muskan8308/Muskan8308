@@ -40,5 +40,6 @@
 ### 🚀 Fun Fact  
 ⚡ I love **problem-solving** and spend my free time **cracking coding challenges & exploring new tech!**  
 😄 **Let's connect and build something amazing together!** 🚀  
-![Count](https://komarev.com/ghpvc/?username=Muskan8308&label=Daily%20Beans&color=000033&style=flat-square)
+
+  ![Count](https://komarev.com/ghpvc/?username=Muskan8308&label=Daily%20Beans&color=000033&style=plastic)
 
