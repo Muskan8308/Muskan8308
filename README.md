@@ -1,62 +1,63 @@
-<h1 align="center">Hi 👋, I'm Muskan Chourasia</h1>
-<h3 align="center">🚀 Aspiring Java Full Stack Developer | Frontend Enthusiast</h3>
+<h1 align="center">Hi there 👋, I'm Muskan Chourasia</h1>
 
 ---
 
 ## 💡 About Me
-- 🎓 Final Year B.Tech Student
-- 💻 Solved **350+ DSA problems** on LeetCode
-- 🌱 Currently learning **Spring Boot & Backend Development**
-- ⚙️ Building a full-stack project (HireNest – in progress)
-- 🎯 Goal: Crack **top product-based companies (40+ LPA)**
+- 💻 Passionate Frontend Developer & Aspiring Java Full Stack Developer
+- 🌱 Currently learning **React, Advanced Java & Spring Boot**
+- 🧠 Solved **350+ DSA problems on LeetCode**
+- 🚀 Focused on building real-world scalable applications
 
 ---
 
-## 🚀 Tech Stack
+## ⚙️ Tech Stack
 
-### 👨‍💻 Languages
+### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js" />
 </p>
 
-### ⚙️ Frameworks & Tools
+### 🔧 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,mysql,mongodb,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+</p>
+
+### 🗄️ Database & ORM
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+</p>
+
+### 🛠️ Tools & IDEs
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,vscode,idea,eclipse,git,github" />
 </p>
 
 ---
 
-## 📌 Projects
-
-### 🔹 HireNest (In Progress)
-- 🔐 Authentication system with Login/Signup APIs
-- ⚙️ Backend built using **Spring Boot**
-- 🧠 Focused on real-world architecture & scalability
+## 📊 My LeetCode Stats
+<!-- KEEP YOUR SAME LEETCODE IMAGE -->
+<!-- Paste your existing banner here -->
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuskanChourasia&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanChourasia&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
-
----
-
-## 🔥 DSA Progress
-- ✅ 350+ Problems Solved
-- 📈 Focus: Arrays, Strings, Trees, Graphs
-- 🎯 Target: 600+ before placements
 
 ---
 
 ## 🌐 Connect With Me
-<p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> |
-  <a href="mailto:YOUR_EMAIL">Email</a>
-</p>
+- 💼 Portfolio: (same as yours)
+- 🐙 GitHub: (same)
+- 💼 LinkedIn: (same)
+- 💻 LeetCode: (same)
+- 📧 Email: (same)
 
 ---
 
 ## ⚡ Fun Fact
-I prefer debugging over watching movies 😌
+- I love problem-solving and spend my free time cracking coding challenges 🚀
+- Let’s connect and build something amazing together! ✨
