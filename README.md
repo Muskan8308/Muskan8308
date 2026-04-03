@@ -1,47 +1,62 @@
-## Hi there 👋, I'm Muskan Chourasia  
-
-### 🚀 About Me  
-💡 Passionate **Frontend Developer** & **Aspiring Java Full-Stack Developer**  
-💻 Currently mastering **React.js, Advanced Java & Spring Boot**  
-📚 Focused on **Data Structures & Algorithms (DSA)** (300+ problems solved on LeetCode)  
-📍 Based in **Jabalpur (M.P), India**  
+<h1 align="center">Hi 👋, I'm Muskan Chourasia</h1>
+<h3 align="center">🚀 Aspiring Java Full Stack Developer | Frontend Enthusiast</h3>
 
 ---
 
-### 🛠️ Tech Stack  
-🚀 **Frontend:** HTML, CSS, JavaScript, React.js  
-⚡ **Backend:** Java (Core & Advanced), Spring Boot (Upcoming)  
-🛢️ **Databases:** MySQL     
-⚙️ **Tools & Platforms:** Git, GitHub, VS Code, Eclipse, IntelliJ  
-📌 **Other Skills:** Problem-Solving  
+## 💡 About Me
+- 🎓 Final Year B.Tech Student
+- 💻 Solved **350+ DSA problems** on LeetCode
+- 🌱 Currently learning **Spring Boot & Backend Development**
+- ⚙️ Building a full-stack project (HireNest – in progress)
+- 🎯 Goal: Crack **top product-based companies (40+ LPA)**
 
 ---
 
-### 📊 My LeetCode Stats  
-![LeetCode Stats](https://leetcard.jacoblin.cool/Muskan83038?theme=chartreuse&font=PT%20Sans)  
+## 🚀 Tech Stack
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,cpp,html,css" />
+</p>
+
+### ⚙️ Frameworks & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,mysql,mongodb,git,github,postman" />
+</p>
 
 ---
 
-### 🌟 GitHub Stats  
-![Muskan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muskan8308&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan8308&layout=compact&theme=radical)  
+## 📌 Projects
+
+### 🔹 HireNest (In Progress)
+- 🔐 Authentication system with Login/Signup APIs
+- ⚙️ Backend built using **Spring Boot**
+- 🧠 Focused on real-world architecture & scalability
 
 ---
 
-### 📫 Connect with Me  
-
-🔗 **Portfolio** [MuskanChourasia](https://muskanchourasia.netlify.app/)  
-🔗 **GitHub:** [Muskan8308](https://github.com/Muskan8308)  
-🔗 **LinkedIn:** [muskan-chourasia19](https://www.linkedin.com/in/muskan-chourasia19/)  
-🔗 **LeetCode:** [Muskan83038](https://leetcode.com/u/Muskan83038/)  
-📧 **Email:** muskan93093@gmail.com  
-
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-### 🚀 Fun Fact  
-⚡ I love **problem-solving** and spend my free time **cracking coding challenges & exploring new tech!**  
-😄 **Let's connect and build something amazing together!** 🚀  
+## 🔥 DSA Progress
+- ✅ 350+ Problems Solved
+- 📈 Focus: Arrays, Strings, Trees, Graphs
+- 🎯 Target: 600+ before placements
 
-  ![Count](https://komarev.com/ghpvc/?username=Muskan8308&label=Daily%20Beans&color=000033&style=plastic)
+---
 
+## 🌐 Connect With Me
+<p>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> |
+  <a href="mailto:YOUR_EMAIL">Email</a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+I prefer debugging over watching movies 😌
