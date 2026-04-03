@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm MUSKAN CHOURASIA </h1>
+<h1 align="center"> MUSKAN CHOURASIA </h1>
 <h3 align="center"> Java Full Stack Developer </h3>
 
 <p align="center">
@@ -11,14 +11,14 @@
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 💻 Final Year B.Tech student focused on **Full Stack Development**
+Final Year B.Tech student focused on **Full Stack Development**
 - ⚙️ Currently working with **Spring Boot, React & MySQL**
-- 🧠 Solved **370+ DSA problems** on LeetCode
-- 🚀 Building real-world projects to gain practical experience
-
+- 🧠 Solved **350+ DSA problems** on LeetCode  
+- 🚀 Building real-world projects to gain practical experience  
+- 🔍 Strong interest in **Backend Development & System Design basics**
+- 🧩 Practicing problem-solving to improve logic & coding efficiency  
 
 <br clear="both"/>
----
 
 ## ⚙️ Tech Stack
 
