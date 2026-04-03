@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Muskan Chourasia</h1>
-<h3 align="center">🚀 Java Full Stack Developer in Progress</h3>
+<h1 align="center">Hi, I'm MUSKAN CHOURASIA </h1>
+<h3 align="center"> Java Full Stack Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Spring+Boot+%7C+React+Developer;350%2B+DSA+Problems+Solved" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Spring+Boot+%7C+React+Developer;370%2B+DSA+Problems+Solved" />
 </p>
 
 ---
@@ -13,9 +13,9 @@
 
 - 💻 Final Year B.Tech student focused on **Full Stack Development**
 - ⚙️ Currently working with **Spring Boot, React & MySQL**
-- 🧠 Solved **350+ DSA problems** on LeetCode
+- 🧠 Solved **370+ DSA problems** on LeetCode
 - 🚀 Building real-world projects to gain practical experience
-- 🎯 Targeting **top product-based companies**
+
 
 <br clear="both"/>
 ---
