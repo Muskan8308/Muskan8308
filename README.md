@@ -36,14 +36,13 @@
 ---
 
 ## 📊 My LeetCode Stats
-<!-- KEEP YOUR SAME LEETCODE IMAGE -->
-<!-- Paste your existing banner here -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/Muskan83038?theme=chartreuse&font=PT%20Sans)  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuskanChourasia&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=MuskanChourasia&show_icons=true&theme=tokyonight&cache_seconds=1800](https://github-readme-stats.vercel.app/api?username=MuskanChourasia&show_icons=true&theme=tokyonight)" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanChourasia&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
