@@ -26,7 +26,7 @@
 
 ## ⚙️ Tech Stack
 
-<div align="center">
+<div >
 
 <table width="100%" border="0">
 <tr>
@@ -35,7 +35,7 @@
 
 <h3 align="center">🎨 Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js" height="50" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,bootstrap" height="50" />
 </p>
 
 <h3 align="center">🔧 Backend</h3>
@@ -66,6 +66,41 @@
 </div>
 
 ---
+
+## 🚀 Projects
+
+### 🔹 HireNest – Job Portal (In Progress) - [Live Demo](https://hire-nest.netlify.app/) | [Github](https://github.com/Muskan8308/HireNestFrontend)
+
+**Tech Used:**  
+`React` `Java` `Spring Boot` `MySQL` `REST APIs`
+
+- 🏗️ Designed modular frontend architecture for job search & application workflows  
+- 🔍 Implemented dynamic filtering with real-time UI updates  
+- 🔐 Developed REST APIs for authentication & job management  
+- 🗄️ Designed relational database schema and integrated backend services  
+
+---
+
+### 🔹 Employee Directory System - [Live Demo](https://expense-tracker-485960.netlify.app/) | [GitHub](https://github.com/Muskan8308/EmployeeDirectorySystem)
+**Tech Used:**  
+`Java` `Spring Boot` `MySQL` `JPA/Hibernate`
+
+- 📋 Built CRUD-based employee management system  
+- 🔗 Developed RESTful APIs for employee operations  
+- 🗄️ Integrated MySQL using JPA/Hibernate ORM  
+- ⚙️ Modeled relational entities and handled data relationships  
+
+---
+
+### 🔹 Expense Tracker App - [GitHub](https://github.com/Muskan8308/Expense-Tracker-Project)
+**Tech Used:**  
+`React` `JavaScript` `HTML` `CSS`
+
+- 💸 Developed interactive UI for tracking daily expenses  
+- 🧠 Implemented state management and local storage handling  
+- 📱 Designed responsive layout for better user experience  
+- ⚡ Optimized performance for smooth UI interactions  
+
 
 ## 📊 My LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Muskan83038?theme=chartreuse&font=PT%20Sans)  
