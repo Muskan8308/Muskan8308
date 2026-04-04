@@ -11,15 +11,15 @@
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 💻 Final Year B.Tech student focused on **Full Stack Development**
-- ⚙️ Currently working with **Spring Boot, React & MySQL**
-- 🧠 Solved **350+ DSA problems** on LeetCode  
-- 🚀 Building real-world projects to gain practical experience  
-- 🔍 Strong interest in **Backend Development & scalable systems**
-- 🧩 Practicing problem-solving to improve logic & coding efficiency  
-- 📚 Learning **System Design fundamentals & clean architecture**
-- 🔧 Experience with REST APIs, database integration & debugging  
-- 💡 Passionate about building efficient and user-friendly applications  
+- Final Year B.Tech student focused on **Full Stack Development**
+- Currently working with **Spring Boot, React & MySQL**
+- Solved **350+ DSA problems** on LeetCode  
+- Building real-world projects to gain practical experience  
+- Strong interest in **Backend Development & scalable systems**
+- Practicing problem-solving to improve logic & coding efficiency  
+- Learning **System Design fundamentals & clean architecture**
+- Experience with REST APIs, database integration & debugging  
+- Passionate about building efficient and user-friendly applications  
 <br clear="both"/>
 
 ---
@@ -78,7 +78,7 @@
 
 ---
 
-### 🔹 Employee Directory System - [Live Demo](https://expense-tracker-485960.netlify.app/) | [GitHub](https://github.com/Muskan8308/EmployeeDirectorySystem)
+### 🔹 Employee Directory System - [GitHub](https://github.com/Muskan8308/EmployeeDirectorySystem)
 - **Tech Used :**  `Java` `Spring Boot` `MySQL` `JPA/Hibernate`
 - Developed CRUD APIs using Spring Boot  
 - Integrated MySQL with JPA/Hibernate  
@@ -86,7 +86,7 @@
 
 ---
 
-### 🔹 Expense Tracker App - [GitHub](https://github.com/Muskan8308/Expense-Tracker-Project)
+### 🔹 Expense Tracker App - [Live Demo](https://expense-tracker-485960.netlify.app/) | [GitHub](https://github.com/Muskan8308/Expense-Tracker-Project)
 - **Tech Used :**  `React` `JavaScript` `HTML` `CSS`
 - Built interactive expense tracking UI  
 - Implemented state management & local storage  
@@ -97,7 +97,8 @@
 
 
 ## 📊 My LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/Muskan83038?theme=chartreuse&font=PT%20Sans)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Muskan83038?theme=nord&font=PT%20Sans)
+
 
 ---
 
@@ -105,21 +106,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Muskan8308&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Muskan8308&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muskan8308&layout=compact&theme=tokyonight)
-
-<picture>
-  <source 
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Muskan8308&show_icons=true&theme=tokyonight" 
-    media="(prefers-color-scheme: dark)" 
-  />
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=Muskan8308&show_icons=true&theme=default" 
-    media="(prefers-color-scheme: light)" 
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Muskan8308&show_icons=true" />
-</picture>
+![GitHub Streak](https://streak-stats.demolab.com?user=Muskan8308&theme=github-dark-blue&background=00000000)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Muskan8308&show_icons=true&theme=github_dark&bg_color=00000000&hide_border=false&border_color=58A6FF&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muskan8308&layout=compact&theme=github_dark&bg_color=00000000&hide_border=false&border_color=58A6FF&text_color=c9d1d9)
 
 
 ---
