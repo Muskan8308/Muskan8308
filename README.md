@@ -101,11 +101,14 @@
 
 ---
 
+
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Muskan8308&show_icons=true&theme=tokyonight" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Muskan8308&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Muskan8308&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muskan8308&layout=compact&theme=tokyonight)
+
 
 ---
 
