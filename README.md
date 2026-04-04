@@ -31,11 +31,11 @@
 <table width="100%" border="0">
 <tr>
 
-<td align="center" width="50%" style="padding: 10px;">
+<td align="center" width="50%" style="padding: 20px;">
 
 <h3 align="center">🎨 Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,node,python,ruby,go,c" height="50" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js" height="50" />
 </p>
 
 <h3 align="center">🔧 Backend</h3>
