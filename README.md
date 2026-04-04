@@ -109,6 +109,18 @@
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Muskan8308&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muskan8308&layout=compact&theme=tokyonight)
 
+<picture>
+  <source 
+    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Muskan8308&show_icons=true&theme=tokyonight" 
+    media="(prefers-color-scheme: dark)" 
+  />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=Muskan8308&show_icons=true&theme=default" 
+    media="(prefers-color-scheme: light)" 
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muskan8308&show_icons=true" />
+</picture>
+
 
 ---
 
