@@ -71,35 +71,29 @@
 
 ### 🔹 HireNest – Job Portal (In Progress) - [Live Demo](https://hire-nest.netlify.app/) | [Github](https://github.com/Muskan8308/HireNestFrontend)
 
-**Tech Used:**  
-`React` `Java` `Spring Boot` `MySQL` `REST APIs`
-
-- 🏗️ Designed modular frontend architecture for job search & application workflows  
-- 🔍 Implemented dynamic filtering with real-time UI updates  
-- 🔐 Developed REST APIs for authentication & job management  
-- 🗄️ Designed relational database schema and integrated backend services  
+- **Tech Used :**  `React` `Java` `Spring Boot` `MySQL` `REST APIs`
+- Built authentication & job management APIs using Spring Boot  
+- Implemented dynamic filtering with React  
+- Designed MySQL database schema   
 
 ---
 
 ### 🔹 Employee Directory System - [Live Demo](https://expense-tracker-485960.netlify.app/) | [GitHub](https://github.com/Muskan8308/EmployeeDirectorySystem)
-**Tech Used:**  
-`Java` `Spring Boot` `MySQL` `JPA/Hibernate`
-
-- 📋 Built CRUD-based employee management system  
-- 🔗 Developed RESTful APIs for employee operations  
-- 🗄️ Integrated MySQL using JPA/Hibernate ORM  
-- ⚙️ Modeled relational entities and handled data relationships  
+- **Tech Used :**  `Java` `Spring Boot` `MySQL` `JPA/Hibernate`
+- Developed CRUD APIs using Spring Boot  
+- Integrated MySQL with JPA/Hibernate  
+- Modeled relational data  
 
 ---
 
 ### 🔹 Expense Tracker App - [GitHub](https://github.com/Muskan8308/Expense-Tracker-Project)
-**Tech Used:**  
-`React` `JavaScript` `HTML` `CSS`
+- **Tech Used :**  `React` `JavaScript` `HTML` `CSS`
+- Built interactive expense tracking UI  
+- Implemented state management & local storage  
+- Designed responsive frontend  
 
-- 💸 Developed interactive UI for tracking daily expenses  
-- 🧠 Implemented state management and local storage handling  
-- 📱 Designed responsive layout for better user experience  
-- ⚡ Optimized performance for smooth UI interactions  
+---
+
 
 
 ## 📊 My LeetCode Stats
