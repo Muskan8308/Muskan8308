@@ -1,4 +1,4 @@
-<h1 align="center"> MUSKAN CHOURASIA </h1>
+<h2 align="center"> MUSKAN CHOURASIA </h2>
 <h3 align="center"> Java Full Stack Developer </h3>
 
 <p align="center">
@@ -120,8 +120,13 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/Muskan83038) 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:muskan93093@gmail.com) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1E40AF?logo=google-chrome&logoColor=white)](https://muskanchourasia.netlify.app/)
+
+
 ---
 
 ## ⚡ Fun Fact
-- I love problem-solving and spend my free time cracking coding challenges 🚀
-- Let’s connect and build something amazing together! ✨
+- I believe consistency beats talent in coding and that's the reason I spend more time debugging than coding (and I kind of enjoy it).
+  
+![Count](https://komarev.com/ghpvc/?username=Muskan8308&label=Daily%20Beans&color=000033&style=plastic)
+
+
