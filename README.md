@@ -11,37 +11,59 @@
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- Final Year B.Tech student focused on **Full Stack Development**
+- 💻 Final Year B.Tech student focused on **Full Stack Development**
 - ⚙️ Currently working with **Spring Boot, React & MySQL**
 - 🧠 Solved **350+ DSA problems** on LeetCode  
 - 🚀 Building real-world projects to gain practical experience  
-- 🔍 Strong interest in **Backend Development & System Design basics**
+- 🔍 Strong interest in **Backend Development & scalable systems**
 - 🧩 Practicing problem-solving to improve logic & coding efficiency  
-
+- 📚 Learning **System Design fundamentals & clean architecture**
+- 🔧 Experience with REST APIs, database integration & debugging  
+- 💡 Passionate about building efficient and user-friendly applications  
 <br clear="both"/>
+
+---
 
 ## ⚙️ Tech Stack
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js" />
+<div align="center">
+
+<table width="100%" border="0">
+<tr>
+
+<td align="center" width="50%" style="padding: 10px;">
+
+<h3 align="center">🎨 Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,js,node,python,ruby,go,c" height="50" />
 </p>
 
-### 🔧 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+<h3 align="center">🔧 Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring" height="50" />
 </p>
 
-### 🗄️ Database & ORM
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+</td>
+
+<td align="center" width="50%" style="padding: 10px;">
+
+<h3 align="center">🗄️ Database & ORM</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="50" height="50"/>
 </p>
 
-### 🛠️ Tools & IDEs
-<p>
-  <img src="https://skillicons.dev/icons?i=postman,vscode,idea,eclipse,git,github" />
+<h3 align="center">🛠️ Tools & IDEs</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,vscode,idea,eclipse,git,github" height="50" />
 </p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
