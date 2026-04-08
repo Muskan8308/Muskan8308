@@ -9,7 +9,7 @@
 
 ## 💡 About Me
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="coding" width="300" src="assets/girls.png"/>
 
 - Final Year B.Tech student focused on **Full Stack Development**
 - Currently working with **Spring Boot, React & MySQL**
