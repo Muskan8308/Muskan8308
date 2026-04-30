@@ -69,7 +69,7 @@
 
 ## 🚀 Projects
 
-### 🔹 HireNest – Job Portal (In Progress) - [Live Demo](https://hire-nest.netlify.app/) | [Github](https://github.com/Muskan8308/HireNestFrontend)
+### 🔹 HireNest – Job Portal (In Progress) - [Live Demo](https://hire-nest.netlify.app/) | [Github](https://github.com/Muskan8308/HireNest)
 
 - **Tech Used :**  `React` `Java` `Spring Boot` `MySQL` `REST APIs`
 - Built authentication & job management APIs using Spring Boot  
