@@ -107,9 +107,10 @@
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Muskan8308&theme=github-dark-blue&background=00000000)
+<!--
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Muskan8308&show_icons=true&theme=github_dark&bg_color=00000000&hide_border=false&border_color=58A6FF&text_color=c9d1d9)
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muskan8308&layout=compact&theme=github_dark&bg_color=00000000&hide_border=false&border_color=58A6FF&text_color=c9d1d9)
-
+-->
 
 ---
 
